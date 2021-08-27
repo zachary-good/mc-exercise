@@ -13,3 +13,7 @@
 
 - Weekend is almost here!
 
+
+- ## This is what Ted and Alice 
+
+### We're not as funny as bob and carol
